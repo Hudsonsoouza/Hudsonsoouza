@@ -11,9 +11,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
 
+<br>
 ![giphy](https://media.discordapp.net/attachments/690201523091013779/923630246962561035/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?width=650&height=400)
 
 <div>
