@@ -1,4 +1,4 @@
- <h2>Hello World, i'am Hudson 😁</h2>
+ <h2>Hello World 😁</h2>
   
   - 🔭 Desenvolvedor Front-end
   - 🌱 Estudando Back-end
@@ -19,7 +19,7 @@
 
 <br>
 
-<h2>Learning 📄</h2>
+<h3>Estudando no momento 📄</h3>
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
