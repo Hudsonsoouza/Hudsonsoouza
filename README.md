@@ -7,9 +7,6 @@
 <br>
 
 Tecnologias atuais ✅
-
-<br>
-
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,9 +21,6 @@ Tecnologias atuais ✅
 <br>
 
 Estudando no momento 📄
-
-<br>
-
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
