@@ -1,4 +1,4 @@
-<div>
+<div style="display: block"; >
   <h2>Hello World, i'am Hudson 😁</h2>
   <br>
     - 🔭 Desenvolvedor Front-end
