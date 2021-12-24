@@ -4,13 +4,7 @@
 - 🔭 Desenvolvedor Front-end
 - 🌱 Estudando Back-end
 - ⚡ Atualmente trabalhando como freelancer
-<br>
-  
-<h2>Learning 📄</h2>
-<img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-<img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-<br>
+
   
 <br>
 <div style="display: inline_block";>
@@ -24,6 +18,17 @@
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+<br>
+
+<h2>Learning 📄</h2>
+<div style="display: inline_block";>
+  <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<br>
+
+</div>
+  
 <br>
   
 ![giphy](https://media.discordapp.net/attachments/690201523091013779/923630246962561035/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif?width=650&height=400)
