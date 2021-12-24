@@ -1,8 +1,12 @@
- <h2>Hello World 😁</h2>
+<h2>Hello World 😁</h2>
   
   - 🔭 Desenvolvedor Front-end
   - 🌱 Estudando Back-end
   - ⚡ Atualmente trabalhando como freelancer
+
+<br>
+
+Tecnologias atuais ✅
 
 <br>
 
@@ -19,7 +23,10 @@
 
 <br>
 
-<h3>Estudando no momento 📄</h3>
+Estudando no momento 📄
+
+<br>
+
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
