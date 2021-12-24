@@ -1,11 +1,10 @@
-<div style="display: block"; >
-  <h2>Hello World, i'am Hudson 😁</h2>
-  <br>
-    - 🔭 Desenvolvedor Front-end
-    - 🌱 Estudando Back-end
-    - ⚡ Atualmente trabalhando como freelancer
-  <br>
-</div>
+ <h2>Hello World, i'am Hudson 😁</h2>
+  
+  - 🔭 Desenvolvedor Front-end
+  - 🌱 Estudando Back-end
+  - ⚡ Atualmente trabalhando como freelancer
+
+<br>
 
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
