@@ -7,6 +7,7 @@
 <br>
 
 Tecnologias atuais ✅
+
 <div style="display: inline_block";>
   <img align="center" alt="hud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,6 +22,7 @@ Tecnologias atuais ✅
 <br>
 
 Estudando no momento 📄
+
 <div style="display: inline_block";>
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -30,6 +32,6 @@ Estudando no momento 📄
 <br>
   
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hudsonsoouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonsoouza&theme=github_dark">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hudsonsoouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonsoouza&theme=algolia">
 </div>
