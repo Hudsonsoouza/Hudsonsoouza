@@ -29,6 +29,7 @@
   <img align="center" alt="hud-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 <div>
+<br/>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hudsonsoouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonsoouza&theme=algolia">
 </div>
