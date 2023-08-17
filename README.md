@@ -33,3 +33,5 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hudsonsoouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudsonsoouza&theme=algolia">
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Hudsonsoouza&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
